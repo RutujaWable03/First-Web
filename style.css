@@ -436,8 +436,8 @@ body {
 
 #skills {
     padding: 50px 20px;
-    background-color: var(--second-color);
-    color: var(--text-color);
+    background-color: white;
+    color: black;
 }
 
 #skills h2 {
